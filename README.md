@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ali Hassan Basti</h1>
-<h3 align="center">A passionate SQA & DevOps Engineer from Pakistan</h3>
+<h3 align="center">A passionate SQA Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibasti97&label=Profile%20views&color=0e75b6&style=flat" alt="alibasti97" /> </p>
 

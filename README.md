@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Hassan Basti</h1>
 <h3 align="center">A passionate SQA Engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Bridging the gap, one **DevOps** skill at a time.🐳
 
 - 📫 How to reach me **alibasti2021@gmail.com**
 
